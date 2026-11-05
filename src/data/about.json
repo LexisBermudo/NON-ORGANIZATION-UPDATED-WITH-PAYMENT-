@@ -1,0 +1,62 @@
+{
+  "hero": {
+    "eyebrow": "MEET THE PERSON BEHIND THE PROJECT",
+    "heading": "Hi, I’m",
+    "accent": "Lexis.",
+    "intro": "I’m Lexis Bermudo, the creator of Common Ground Project. I care about making more room for neighbors to grow food, share what they know, and feel connected close to home.",
+    "imageAlt": "Portrait of Lexis Bermudo",
+    "imageCaption": "GROWING IS BETTER\nWHEN IT’S SHARED.",
+    "sideNote": "GOOD SOIL.\nOPEN DOORS.\nROOM TO GROW."
+  },
+  "story": {
+    "index": "01",
+    "label": "WHY I STARTED",
+    "heading": "A little more connection, close to home.",
+    "lede": "I imagined an overlooked patch of ground becoming a place where anyone could feel welcome.",
+    "paragraphs": [
+      "That idea became Common Ground Project: a community garden concept built around growing fresh food and growing stronger neighborhood connections at the same time. I wanted the garden to be about more than what we harvest. It should also be a place to learn by doing, share skills, and get to know the people around you.",
+      "I believe getting involved should feel approachable. You don’t need gardening experience or a perfect plan to begin; curiosity and a little willingness to pitch in are enough. My hope is to help create a project where neighbors shape the garden together and everyone has something to bring."
+    ]
+  },
+  "bio": {
+    "index": "02",
+    "label": "A LITTLE MORE ABOUT ME",
+    "heading": "Student, creator,",
+    "accent": "and neighbor.",
+    "intro": "I’m Lexis Bermudo, a 21-year-old BSIT student at Angeles University Foundation. I’m based in Mabalacat City, where I’m learning, building ideas, and finding ways to bring people together.",
+    "details": [
+      { "label": "Age", "value": "21" },
+      { "label": "Birthday", "value": "September 1, 2005" },
+      { "label": "Course / section", "value": "BSIT 3B" },
+      { "label": "School", "value": "Angeles University Foundation" },
+      { "label": "Location", "value": "Mabalacat City" }
+    ]
+  },
+  "values": {
+    "index": "03",
+    "label": "MY APPROACH",
+    "heading": "What I want",
+    "accent": "to grow.",
+    "items": [
+      {
+        "title": "Start with neighbors",
+        "description": "People who live nearby should shape the spaces and the decisions that affect them."
+      },
+      {
+        "title": "Make it welcoming",
+        "description": "Gardens should be easy to join, generous with knowledge, and open to all experience levels."
+      },
+      {
+        "title": "Share what grows",
+        "description": "Food, skills, time, and care all become more valuable when they move between people."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "LET’S MAKE SOMETHING GROW",
+    "heading": "There’s room",
+    "secondLine": "to grow",
+    "accent": "together.",
+    "button": "Get involved"
+  }
+}
